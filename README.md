@@ -26,18 +26,14 @@ people to travel .
 
 
 The objectives of the system are : 
-• Making Auto rikshaw booking online. 
-• Creating database of Auto rikshaws that provide their services 
-at railway station. 
-• Fixed fare for covering same distance, so no need of bargaining. 
-• It reduces auto booking time. 
-• It can reduce crowding of auto drivers. 
-• It finds the most suitable auto according to the number of 
-passengers and luggage. 
-• It reduces competition between the drivers. 
-• It supports smart city plan. 
-• It makes choosing the rider easy for the auto drivers. 
-• Its beneficial for drivers operating in remote areas. 
-• It will help in reducing working hours of Auto drivers , as they 
-have to come to the station only when their service is required 
-by the rider.
+- Making Auto rickshaw booking online.
+- Creating a database of Auto rickshaws that provide their services at the railway station.
+- Fixed fare for covering the same distance, so no need for bargaining.
+- Reduces auto booking time.
+- Can reduce crowding of auto drivers.
+- Finds the most suitable auto according to the number of passengers and luggage.
+- Reduces competition between the drivers.
+- Supports the smart city plan.
+- Makes choosing the rider easy for the auto drivers.
+- Beneficial for drivers operating in remote areas.
+- Helps in reducing working hours of Auto drivers, as they have to come to the station only when their service is required by the rider.
